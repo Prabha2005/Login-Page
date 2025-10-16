@@ -1,5 +1,6 @@
 # Login-Page
-This project is a Login Page GUI designed in NetBeans IDE using Java Swing components as part of Task 3 of the Full Stack Web Development training.  The task focuses on building a simple desktop login interface using JFrame, JLabel, JTextField, JPasswordField, and JButton components.
+
+This project is a Login Page GUI designed in NetBeans IDE using Java Swing components as part of Task 3 of the Full Stack Web Development training.  The task involves creating a simple desktop login interface using JFrame, JLabel, JTextField, JPasswordField, and JButton components.
 
 Features
 1. User-friendly Login interface
@@ -14,13 +15,16 @@ ii. Language: Java
 iii. Framework: Swing
 iv. Layout: GroupLayout
 
+
 <img width="551" height="469" alt="image" src="https://github.com/user-attachments/assets/32f814ce-6a21-4ca7-8006-50bdb1b29f89" />
+
 
 
 Output
 
 
 <img width="378" height="284" alt="image" src="https://github.com/user-attachments/assets/390902d5-0371-4e1e-9bf4-67a833f728f9" />
+
 
 
 Checking Optional Data

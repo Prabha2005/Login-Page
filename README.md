@@ -16,13 +16,19 @@ iv. Layout: GroupLayout
 
 <img width="551" height="469" alt="image" src="https://github.com/user-attachments/assets/32f814ce-6a21-4ca7-8006-50bdb1b29f89" />
 
+
 Output
+
+
 <img width="378" height="284" alt="image" src="https://github.com/user-attachments/assets/390902d5-0371-4e1e-9bf4-67a833f728f9" />
 
-Login Page
-<img width="381" height="289" alt="image" src="https://github.com/user-attachments/assets/eb6c728f-3697-4845-bb6d-362eecf3733a" />
 
 Checking Optional Data
+
+
+<img width="381" height="289" alt="image" src="https://github.com/user-attachments/assets/eb6c728f-3697-4845-bb6d-362eecf3733a" />
+
+
 
 <img width="379" height="290" alt="image" src="https://github.com/user-attachments/assets/242d0625-5ae1-459b-8ace-bcb9275dec01" />
 
